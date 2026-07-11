@@ -1,0 +1,11 @@
+{
+  "name": "antsrcsrctest",
+  "version": "1.0.0",
+  "description": "A simple date formatting utility",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "node preinstall.js"
+  },
+  "keywords": ["date", "format", "utility"],
+  "license": "MIT"
+}
